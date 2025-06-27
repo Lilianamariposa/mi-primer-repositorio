@@ -1,0 +1,40 @@
+body{
+background-color:blueviolet;
+font-family: Arial,sans-serif;    
+}
+p{
+color:azure;
+font: size 19px; 
+}
+.titulo-principal {
+color:aqua;
+text-decoration:center;
+}
+.destacado {
+color:beige;
+text-align:center;    
+}
+imag{
+width:300px;
+height:300px; 
+border: 5px solid white;    
+}
+.titulo-principal {
+color:aliceblue;
+text-align:center;
+}
+.destacado{
+color:aquamarine;
+font-weight:bolder;    
+}
+img{
+width:300px; 
+height:300px;
+border:5px solid white;    
+}
+.contendo {
+display:flex;
+flex-direction:row;
+gap:20px;
+align-items:center;   
+}
